@@ -1,0 +1,3 @@
+[submodule "URPProjectX/Assets/PSD2UGUI/Editor/psd2ugui"]
+	path = URPProjectX/Assets/PSD2UGUI/Editor/psd2ugui
+	url = https://github.com/Just4F/quick_psd2ugui.git
